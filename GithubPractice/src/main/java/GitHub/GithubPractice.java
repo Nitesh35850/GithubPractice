@@ -2,7 +2,7 @@ package GitHub;
 
 public class GithubPractice {
 	public static void main(String[] args) {
-		System.out.println("Github practive");
+		System.out.println("Github practive...........................");
 	}
 
 }
